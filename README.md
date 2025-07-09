@@ -16,3 +16,11 @@ Follow the steps below to set up and run the project locally.
 ```bash
 git clone https://github.com/your-username/samrisa_task.git
 cd samrisa_task
+
+cd client
+npm install
+npm start
+
+cd server 
+npm install
+node index.js
